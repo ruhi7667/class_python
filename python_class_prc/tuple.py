@@ -47,4 +47,34 @@
 #   s+=i
 # print(s)
 
+employee_name= ["ram","rohit","rohan"]
+vowels="aeiouAEIOU"
+for i in employee_name:
+  for j in i:
+    if j in vowels:
+      print(j)
+
+
+# str1="this is python"
+# vowels="aeiouAEIOU"
+# for i in str1:
+#   for j in i:
+#     if j  not in vowels:
+#       print(j)
+      
+# str1= "123ruhi456"
+# digits=[]
+# alpha=[]
+# alnum=[]
+# for i in str1:
+#   if i.isdigit():
+#     digits.append(i)
+#   if i.isalpha():
+#     alpha.append(i)
+#   if i.isalnum():
+#     alnum.append(i)
+
+# print(digits)
+# print(alpha)
+# print(alnum)
 
