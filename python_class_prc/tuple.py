@@ -47,12 +47,12 @@
 #   s+=i
 # print(s)
 
-employee_name= ["ram","rohit","rohan"]
-vowels="aeiouAEIOU"
-for i in employee_name:
-  for j in i:
-    if j in vowels:
-      print(j)
+# employee_name= ["ram","rohit","rohan"]
+# vowels="aeiouAEIOU"
+# for i in employee_name:
+#   for j in i:
+#     if j in vowels:
+#       print(j)
 
 
 # str1="this is python"
@@ -78,3 +78,5 @@ for i in employee_name:
 # print(alpha)
 # print(alnum)
 
+# from custom_module import check_odd_even
+# print(check_odd_even(10))
