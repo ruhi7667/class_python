@@ -386,6 +386,18 @@
 #     li.append(a)
 # print(li)
 
+# def lar_num(a, b, c):
+#   if a>b and a>c:
+#     print(f"largest no is a: {a} ")
+#   if b>c and b>a:
+#     print(f"largest no is b:{b} ")
+#   else:
+#     print(f"largest no is c:{c}")
+# a=int(input("enter 1st no"))
+# b=int(input("enter 2nd no"))
+# c=int(input("enter 3rd no"))
+
+# lar_num(a, b, c)
 
 
 
